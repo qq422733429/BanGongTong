@@ -1,0 +1,183 @@
+D:\bangongtong\bangongtong\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bangongtong\bangongtong\obj\x86\Debug\bangongtong.Properties.Resources.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAddFolder.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAdminName.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangeName.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangePassWord.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChat.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsert.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsertNote.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\DocumentManager.frmLogin.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmMain.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmRemindSet.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSelectFolder.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFile.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFolder.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWarning.resources
+D:\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWatchNote.resources
+D:\bangongtong\bangongtong\bin\Debug\bangongtong.exe
+D:\bangongtong\bangongtong\bin\Debug\bangongtong.pdb
+D:\bangongtong\bangongtong\obj\x86\Debug\bangongtong.exe
+D:\bangongtong\bangongtong\obj\x86\Debug\bangongtong.pdb
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\bangongtong.exe
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\bangongtong.pdb
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\bin\Debug\bangongtong.exe
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\bin\Debug\bangongtong.pdb
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAddFolder.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAdminName.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangeName.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangePassWord.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChat.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsert.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsertNote.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\DocumentManager.frmLogin.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmMain.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmRemindSet.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSelectFolder.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFile.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFolder.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWarning.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWatchNote.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\bangongtong.Properties.Resources.resources
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\peter\Desktop\北大青鸟\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\bangongtong.exe
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\bangongtong.pdb
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\bin\Debug\bangongtong.exe
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\bin\Debug\bangongtong.pdb
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAddFolder.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAdminName.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangeName.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangePassWord.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChat.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsert.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsertNote.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\DocumentManager.frmLogin.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmMain.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmRemindSet.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSelectFolder.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFile.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFolder.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWarning.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWatchNote.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\bangongtong.Properties.Resources.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\软件源码\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\bangongtong.exe
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\bangongtong.pdb
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\bin\Debug\bangongtong.exe
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\bin\Debug\bangongtong.pdb
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAddFolder.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAdminName.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangeName.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangePassWord.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChat.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsert.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsertNote.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\DocumentManager.frmLogin.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmMain.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmRemindSet.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSelectFolder.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFile.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFolder.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWarning.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWatchNote.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\bangongtong.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\bangongtong.exe
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\bangongtong.pdb
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\bin\Debug\bangongtong.exe
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\bin\Debug\bangongtong.pdb
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAddFolder.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAdminName.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangeName.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangePassWord.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChat.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsert.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsertNote.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\DocumentManager.frmLogin.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmMain.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmRemindSet.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSelectFolder.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFile.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFolder.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWarning.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWatchNote.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\bangongtong.Properties.Resources.resources
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\peter\Desktop\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\bangongtong.exe
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\bangongtong.pdb
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\bin\Debug\bangongtong.exe
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\bin\Debug\bangongtong.pdb
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAddFolder.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAdminName.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangeName.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangePassWord.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChat.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsert.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsertNote.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\DocumentManager.frmLogin.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmMain.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmRemindSet.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSelectFolder.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFile.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFolder.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWarning.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWatchNote.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\bangongtong.Properties.Resources.resources
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\文件03\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\bangongtong.exe
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\bangongtong.pdb
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\bin\Debug\bangongtong.exe
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\bin\Debug\bangongtong.pdb
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAddFolder.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAdminName.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangeName.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangePassWord.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChat.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsert.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsertNote.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\DocumentManager.frmLogin.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmMain.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmRemindSet.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSelectFolder.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFile.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFolder.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWarning.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWatchNote.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\bangongtong.Properties.Resources.resources
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\peter_A\Desktop\山东工商学院—办公通\办公通项目文档\新建文件夹\bangongtong\bangongtong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\bangongtong.exe
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\bangongtong.pdb
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\bin\Debug\bangongtong.exe
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\bin\Debug\bangongtong.pdb
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\bangongtong.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAddFolder.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmAdminName.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangeName.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChangePassWord.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmChat.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsert.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmInsertNote.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\DocumentManager.frmLogin.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmMain.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmRemindSet.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSelectFolder.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFile.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmSendFolder.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWarning.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\青鸟项目.frmWatchNote.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\bangongtong.Properties.Resources.resources
+C:\Users\Administrator\Desktop\编程\山东工商学院—办公通\办公通项目文档\bangongtong\bangongtong\obj\x86\Debug\bangongtong.csproj.GenerateResource.Cache
